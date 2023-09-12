@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ConsLayout</string>
+    <string name="balance">5,600.00</string>
+    <string name="pay_money">Pay money</string>
+    <string name="desc_pay_money">To wallet, bank or mobile number</string>
+    <string name="req_money">Request money</string>
+    <string name="desc_req_money">Request money from Cowry Loans</string>
+    <string name="pay_bill">Pay bill</string>
+    <string name="desc_pay_bill">Zero transactions fees when you pay</string>
+    <string name="buy_airtime">Buy airtime</string>
+    <string name="desc_buy_airtime">Top-up or Send airtime across Countries</string>
+</resources>
